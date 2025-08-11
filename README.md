@@ -12,6 +12,10 @@ select overrides subtab
 
 select overrides folder of where you downloaded the hacks and grant permission. the folder selected should be called "overrides", the folder you downloaded from this repo
 
+reload the page with devtools open (ctrl+shift+c)
+
+leave devtools open until you have entered a match. then you can close devtools, unless you are using our skins also
+
 important: the overrides must be in [overrides folder]/cryzen.io, and some must be in [overrides folder]/cryzen.io/assets. keep the folder structure (bc the hacks override files of specific directory)
 
 important: if there is a file called match-link, in cryzen.io's sources, right-click it and override it with an empty file called match-link to allow devtools to be open when reloading page
