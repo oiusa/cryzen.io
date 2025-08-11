@@ -1,3 +1,0 @@
-*custom sniper scope
-*no bullet cases
-*no blood splatter on enemy
