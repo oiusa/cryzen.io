@@ -7,3 +7,5 @@ dev info:
 these files are the now blobbed source files from cryzen.io 0.23 for dev & archive purpose
 
 lines of .js files are deleted or added with //123
+
+important: this repo's hacks aim to minimize use of 3rd party software such as tampermonkey, exe, and outside languages, so that it can be portable, accessable, reliable, and easy
