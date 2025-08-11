@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,l as _,K as n}from"./index-ltdjbB5e.js";const t={},a={class:"close"};function r(l,p){const c=n;return o(),s("div",a,[_(c,{name:"close",class:"close-icon"})])}const m=e(t,[["render",r],["__scopeId","data-v-f47cbe19"]]);export{m as _};
