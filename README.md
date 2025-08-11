@@ -2,7 +2,7 @@
 
 steps to get hacks for cryzen.io:
 
-download files from github
+download overrides folder from this repo
 
 ctrl+shift+c when on cryzen.io
 
