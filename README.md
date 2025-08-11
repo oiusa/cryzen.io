@@ -1,3 +1,5 @@
+# how to get cryzen.io hacks
+
 steps to get hacks for cryzen.io:
 
 download files from github
