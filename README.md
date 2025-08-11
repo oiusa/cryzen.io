@@ -10,6 +10,6 @@ select sources tab
 
 select overrides subtab
 
-select overrides folder of where you downloaded the hacks and grant permission
+select overrides folder of where you downloaded the hacks and grant permission. the folder selected should be called "overrides", the folder you downloaded from this repo
 
 important: the overrides must be in [overrides folder]/cryzen.io, and some must be in [overrides folder]/cryzen.io/assets. keep the folder structure (bc the hacks override files of specific directory)
