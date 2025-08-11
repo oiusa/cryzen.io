@@ -1,4 +1,4 @@
-# how to get cryzen.io hacks
+# how to get these cryzen.io hacks
 
 steps to get hacks for cryzen.io:
 
