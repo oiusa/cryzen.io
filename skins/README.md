@@ -13,3 +13,5 @@ m9: knife: tertiary
 mossberg: shotgun: 2
 
 (we may extend to more weapons and rarities for skins in the future)
+
+important: you must keep devtools open for the skins to stay match-to-match
